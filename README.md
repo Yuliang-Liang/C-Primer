@@ -1,1 +1,1 @@
-# C-Primer
+Some reading note
