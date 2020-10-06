@@ -1,5 +1,6 @@
 ### Some reading note
 test
-```flow
+```mermaid
+graph TD
 a-->b
 ```
